@@ -9,5 +9,5 @@ For my Independent Study - AI Class, I used Unity's MLAgents toolkit to train a 
 -Unity ML-Agents (https://github.com/Unity-Technologies/ml-agents)
 
 ## 📷 Pictures
-![](images/)
-![](images/)
+![](images/leftright.gif)
+![](images/complex.gif)
