@@ -9,5 +9,8 @@ For my Independent Study - AI Class, I used Unity's MLAgents toolkit to train a 
 -Unity ML-Agents (https://github.com/Unity-Technologies/ml-agents)
 
 ## 📷 Pictures
+Here was the initial left and right turn tracks used to train the agent.
 ![](images/leftright.gif)
+<br />
+Here is the complex track that I tested the agent on after training.
 ![](images/complex.gif)
