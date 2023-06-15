@@ -12,7 +12,7 @@ For my Independent Study - AI Class, I used Unity's MLAgents toolkit to train a 
 </p>
 
 <div align="center">
-  <img src="images/complex.gif" width=800" height="600">  
+  <img src="images/complex.gif" width="800" height="600">  
 </div>
 <p align="center">
   The agent (car) is controlling itself and has learned to stay on track.
