@@ -5,14 +5,14 @@ For my Independent Study - AI Class, I used Unity's MLAgents toolkit to train a 
 
 ## Pictures
 <div align="center">
-  <img src="images/leftright.gif">  
+  <img src="images/leftright.gif" width="600" height="400">  
 </div>
 <p align="center">
   The initial left and right turn tracks used to train the agent.
 </p>
 
 <div align="center">
-  <img src="images/complex.gif">  
+  <img src="images/complex.gif" width="600" height="400">  
 </div>
 <p align="center">
   The agent (car) is controlling itself and has learned to stay on track.
